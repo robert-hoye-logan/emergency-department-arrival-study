@@ -68,7 +68,7 @@ All SQL findings independently reproduced in Python against the raw CSV. 20-chec
 ## Project Deliverables
 
 - 📊 **Tableau Dashboard** — *(link to be added upon public release)*
-- 📑 **Presentation Slides** — *(link to be added upon public release)*
+- 🐍 **Python Notebook** —  *(link to be added upon public release)*
 
 ---
 
