@@ -1,4 +1,4 @@
-# ED Access Override Audit
+# Emergency Department Arrival Study
 ### Does arrival method determine how quickly you're seen in the ER — independent of clinical severity?
 
 ---
@@ -67,7 +67,7 @@ All SQL findings independently reproduced in Python against the raw CSV. 20-chec
 
 ## Project Deliverables
 
-- 📊 **Tableau Dashboard** — *(link to be added upon public release)*
+- 📊 **Tableau Dashboard** — [Emergency Department Arrival Study](https://public.tableau.com/views/EDAOA_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🐍 **Python Notebook** —  *(link to be added upon public release)*
 
 ---
